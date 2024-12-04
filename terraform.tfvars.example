@@ -1,0 +1,5 @@
+aws_iam_labrole_arn = ""
+aws_rds_dbname = ""
+aws_rds_username = ""
+aws_rds_password = ""
+tech_challenge_api_port = 4000
